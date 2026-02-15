@@ -50,3 +50,6 @@ numero_impar = 3
 
 if 'a' in 'banana':
     print('tem')
+
+
+"teste"

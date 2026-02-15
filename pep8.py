@@ -1,5 +1,3 @@
-import this
-
 """
 PEP8 - Python Enhanced Proposals
 
@@ -50,6 +48,3 @@ numero_impar = 3
 
 if 'a' in 'banana':
     print('tem')
-
-
-"teste"
